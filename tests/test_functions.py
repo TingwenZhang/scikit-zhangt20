@@ -1,6 +1,7 @@
 import numpy as np
 import pytest
-from scikit_zhangt20 import functions
+
+from scikit_zhangt20_lvl5 import functions
 
 
 def test_dot_product_2D_list():
